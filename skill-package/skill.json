@@ -1,0 +1,35 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-west-2:774712279540:function:5961c8e5-1eec-46a3-ba8a-856b5dc1c24b:Release_0"
+        },
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:774712279540:function:5961c8e5-1eec-46a3-ba8a-856b5dc1c24b:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:774712279540:function:5961c8e5-1eec-46a3-ba8a-856b5dc1c24b:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:774712279540:function:5961c8e5-1eec-46a3-ba8a-856b5dc1c24b:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "publishingInformation": {
+      "locales": {
+        "ja-JP": {
+          "name": "vscode_test_v2"
+        }
+      }
+    }
+  }
+}
